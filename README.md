@@ -1,4 +1,4 @@
-👋 Olá! Chamo-me Shelzia Matsinhe
+# 👋 Olá! Chamo-me Shelzia Matsinhe
 
 💻 Sou estudante de Engenharia Informática no 2º ano na Universidade de Ciência e Tecnologia Joaquim Alberto Chissano (UJAC), em Maputo.
 
